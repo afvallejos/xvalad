@@ -1,14 +1,16 @@
 # Adams Vallejos
 
-## Doctorand at Göteborgs Universitet
+## Doctorand in Biophysics at Göteborgs Universitet
 
-## Statistical Physics, Biophysics, Structural Biology, Data Science
+##  Biophysics, Statistical Physics, Structural Biology, Data Science
 
-### Languages and Tools
+<!-- ### Languages and Tools -->
 
 ### Publications
 
-### Connect with me:
+http://www.sciencedirect.com/science/article/pii/S0378437118311920
+
+<!-- ### Connect with me: -->
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
 ### Languages and Tools:
